@@ -1,5 +1,5 @@
 {
-  "name": "satis-paneli",
+  "name": "satis-istihbarat-paneli",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -12,7 +12,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "vite": "^5.0.0",
-    "@vitejs/plugin-react": "^4.0.0"
+    "vite": "^5.4.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "typescript": "^5.5.4"
   }
 }
